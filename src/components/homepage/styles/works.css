@@ -1,5 +1,9 @@
 @import "../../../data/styles.css";
 
+.works {
+	max-width: 600px;
+}
+
 .works-body {
 	margin-bottom: 10px;
 }
@@ -7,7 +11,7 @@
 .work {
 	display: flex;
 	padding-bottom: 40px;
-	width: 400px;
+	width: 500px;
 }
 
 .work-image {
@@ -19,7 +23,7 @@
 }
 
 .work-title {
-	font-size: 15px;
+	font-size: 16px;
 	font-weight: 700;
 	padding-left: 20px;
 	margin-top: -3px;
@@ -28,7 +32,7 @@
 
 .work-subtitle {
 	position: absolute;
-	font-size: 12px;
+	font-size: 14px;
 	color: var(--secondary-color);
 	padding-top: 22px;
 	padding-left: 50px;
@@ -36,9 +40,40 @@
 
 .work-duration {
 	position: absolute;
-	width: 350px;
-	font-size: 12px;
+	width: 400px;
+	font-size: 14px;
 	padding-top: 20px;
 	text-align: right;
 	color: var(--tertiary-color);
+}
+
+@media screen and (max-width: 500px) {
+	
+	.work-image {
+		display: inline;
+		margin: 15px;
+	}
+
+	.work {
+		flex-direction: column;
+		padding-bottom: 10px;
+		width: auto;
+	}
+
+	.work-title {
+		padding: 5px;
+	}
+
+	.work-subtitle {
+		position: static;
+		padding: 5px;
+	}
+
+	.work-duration {
+		position: static;
+		text-align: left;
+		padding: 5px;
+		width: auto;
+	}
+
 }
