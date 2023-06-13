@@ -15,8 +15,8 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./china.png"
-								alt="facebook"
+								src="china.png"
+								alt="china"
 								className="work-image"
 							/>
 							<div className="work-title">Zhiqi Trading (Shanghai) Co., Ltd</div>
