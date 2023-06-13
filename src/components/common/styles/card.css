@@ -9,6 +9,7 @@
 .card-container {
 	padding: 30px;
 	padding-bottom: 5px;
+	max-width: 600px;
 }
 
 .card-header {
@@ -31,4 +32,17 @@
 .card-body {
 	padding-top: 40px;
 	font-size: 15px;
+}
+
+@media screen and (max-width: 500px) {
+	
+	.card-container {
+		padding: 30px 5px 30px 30px;
+	}
+
+	.card-body {
+		padding-top: 10px;
+		font-size: 15px;
+	}
+
 }

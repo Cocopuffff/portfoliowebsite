@@ -16,7 +16,13 @@
 }
 
 @media (max-width: 600px) {
-	.all-projects-project {
-		width: calc(100% / 2);
+	
+	.all-projects-container {
+		margin: 0 auto;
 	}
+
+	.all-projects-project {
+		width: calc(100%);
+	}
+	
 }
