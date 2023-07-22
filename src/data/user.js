@@ -35,6 +35,24 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Investment Calculator",
+			description:
+				"This React investment calculator app is built using components and React useState for state management, and is deployed via Vercel.",
+			logo: "react.png",
+			linkText: "View Project",
+			link: "https://investment-calculator-mu.vercel.app/",
+		},
+		
+		{
+			title: "AWS deployment",
+			description:
+				"This Spring Boot project is hosted on AWS EC2, and built on a robust CI/CD pipeline leveraging AWS CodeDeploy and CodePipeline, as well as simple shell scripts. Notably, the pipeline seamlessly integrates with my GitHub repository, ensuring a streamlined and automated deployment process.",
+			logo: "aws.png",
+			linkText: "View Project",
+			link: "https://github.com/Cocopuffff/bookStore",
+		},
+
+		{
 			title: "Personal Portfolio",
 			description:
 				"This portfolio website that you are viewing borrows heavily from an open source React project by https://github.com/truethari/reactfolio. I have made customizations to personalize this to my needs and deploy on Vercel.",
