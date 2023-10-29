@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "Future Full-stack developer, and loving human to my cat.",
 		description:
-			"As an aspiring full-stack developer, I have gained extensive exposure to a range of technologies including JavaScript, Java, and SQL, as well as frameworks such as Scrum, RESTful API, Bootstrap, React.js, and Spring. My experience encompasses building web applications that are scalable, secure, and reliable, with expertise in deploying them through Azure. I find great satisfaction in tackling complex problems and continuously expanding my skill set. Writing code that is both high-quality and optimized for performance and maintainability is something I take great pride in. I am constantly seeking new challenges and opportunities that foster my growth as a developer.",
+			"As a full-stack developer, I have gained extensive exposure to a range of technologies including JavaScript, Java, Python and SQL, as well as frameworks such as Scrum, RESTful API, Bootstrap, React.js, Flask and Spring. My experience encompasses building web applications that are scalable, secure, and reliable, with expertise in deploying them through Azure. I find great satisfaction in tackling complex problems and continuously expanding my skill set. Writing code that is both high-quality and optimized for performance and maintainability is something I take great pride in. I am constantly seeking new challenges and opportunities that foster my growth as a developer.",
 	},
 
 	about: {
@@ -34,6 +34,15 @@ const INFO = {
 	// },
 
 	projects: [
+		{
+			title: "LLM Service App",
+			description:
+				"Built a Large Language Model service app capable of various offline document annotation and summarisation tasks leveraging Flask, Langchain and operationalising open-source AI models. Achieved this monumental task through dedicated self-learning, despite no prior experience in Python or MLOps.",
+			logo: "python.png",
+			linkText: "Project unavailable for viewing",
+			link: "#",
+		},
+		
 		{
 			title: "Investment Calculator",
 			description:
