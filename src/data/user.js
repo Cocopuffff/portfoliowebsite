@@ -35,6 +35,51 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Trader Joe",
+			description:
+				"Built a comprehensive algorithmic trading platform integrated with OANDA's trading services. The platform, developed using React.js, Flask, and PostgreSQL, enables traders to automate their Python trading strategies, monitor performance, and manage trades in real-time.",
+			logo: "python.png",
+			linkText: "View Project",
+			link: "https://github.com/Cocopuffff/TraderJoe",
+		},
+
+		{
+			title: "Save The Muffin",
+			description:
+				"Developed a MERN-stack food rescue application in collaboration with others. This platform showcases nearby food listings on a map, utilising react-leaflet for mapping, and integration with OneMap for geographical data.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://github.com/Cocopuffff/project3",
+		},
+
+		{
+			title: "Fefi Finance",
+			description:
+				"Engineered a Trader’s Research Assistant application featuring chart analysis and generative AI news sentiment analysis, using React.js and integrated with APIs from Oanda, AirTable, and Groq",
+			logo: "react.png",
+			linkText: "View Project",
+			link: "https://github.com/Cocopuffff/fefi-finance",
+		},
+
+		{
+			title: "Sudoku",
+			description:
+				"Developed a Sudoku website utilizing a recursive algorithm to dynamically generate unique puzzles, implemented in JavaScript",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png",
+			linkText: "View Deployment",
+			link: "https://cocopuffff.github.io/Sudoku/",
+		},
+
+		{
+			title: "RAG Chat App",
+			description:
+				"Collaboratively developed a Retrieval Augmented AI chat interface, empowering users to extract insights from document repositories interactively using web socket, vector store, and Langchain",
+			logo: "python.png",
+			linkText: "Project unavailable for viewing",
+			link: "#",
+		},
+
+		{
 			title: "LLM Service App",
 			description:
 				"Built a Large Language Model service app capable of various offline document annotation and summarisation tasks leveraging Flask, Langchain and operationalising open-source AI models. Achieved this monumental task through dedicated self-learning, despite no prior experience in Python or MLOps.",
@@ -42,7 +87,7 @@ const INFO = {
 			linkText: "Project unavailable for viewing",
 			link: "#",
 		},
-		
+
 		{
 			title: "Investment Calculator",
 			description:
@@ -51,7 +96,7 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://investment-calculator-mu.vercel.app/",
 		},
-		
+
 		{
 			title: "AWS deployment",
 			description:
@@ -69,7 +114,7 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://github.com/Cocopuffff/portfoliowebsite",
 		},
-		
+
 		{
 			title: "Shoe Dork",
 			description:

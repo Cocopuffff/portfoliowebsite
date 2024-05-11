@@ -15,6 +15,19 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
+								src="ocbc.svg"
+								alt="OCBC"
+								className="work-image"
+							/>
+							<div className="work-title">OCBC Bank</div>
+							<div className="work-subtitle">
+								Software Engineer
+							</div>
+							<div className="work-duration">-2024 - Present</div>
+						</div>
+
+						<div className="work">
+							<img
 								src="trustedhub.jpg"
 								alt="Trusted Hub Ltd"
 								className="work-image"
@@ -23,7 +36,7 @@ const Works = () => {
 							<div className="work-subtitle">
 								Software Developer
 							</div>
-							<div className="work-duration">2023 - Present</div>
+							<div className="work-duration">2023 - 2024</div>
 						</div>
 
 						<div className="work">
@@ -32,13 +45,14 @@ const Works = () => {
 								alt="china"
 								className="work-image"
 							/>
-							<div className="work-title">Zhiqi Trading (Shanghai) Co., Ltd</div>
+							<div className="work-title">
+								Zhiqi Trading (Shanghai) Co., Ltd
+							</div>
 							<div className="work-subtitle">
 								Sales Manager (Based in Shanghai)
 							</div>
 							<div className="work-duration">2017 - 2022</div>
 						</div>
-						
 
 						<div className="work">
 							<img
