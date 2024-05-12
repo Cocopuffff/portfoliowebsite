@@ -16,9 +16,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Future Full-stack developer, and loving human to my cat.",
+		title: "Full-stack developer, and loving human to my cat.",
 		description:
-			"As a full-stack developer, I have gained extensive exposure to a range of technologies including JavaScript, Java, Python and SQL, as well as frameworks such as Scrum, RESTful API, Bootstrap, React.js, Flask and Spring. My experience encompasses building web applications that are scalable, secure, and reliable, with expertise in deploying them through Azure. I find great satisfaction in tackling complex problems and continuously expanding my skill set. Writing code that is both high-quality and optimized for performance and maintainability is something I take great pride in. I am constantly seeking new challenges and opportunities that foster my growth as a developer.",
+			"As a full-stack developer, I have gained extensive exposure to a range of technologies including JavaScript, Java, Python, SQL, as well as frameworks such as Scrum, RESTful API, Bootstrap, React.js, Flask and Spring. My experience encompasses building web applications that are scalable, secure, and reliable, with expertise in deploying them through Azure. I find great satisfaction in tackling complex problems and continuously expanding my skill set. Writing code that is both high-quality and optimized for performance and maintainability is something I take great pride in. I am constantly seeking new challenges and opportunities that foster my growth as a developer.",
 	},
 
 	about: {
