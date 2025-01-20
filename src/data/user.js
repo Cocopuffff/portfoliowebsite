@@ -16,15 +16,15 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack developer, and loving human to my cat.",
+		title: "Software Engineer, and loving dad to my son and cat.",
 		description:
-			"As a full-stack developer, I have gained extensive exposure to a range of technologies including JavaScript, Java, Python, SQL, as well as frameworks such as Scrum, RESTful API, Bootstrap, React.js, Flask and Spring. My experience encompasses building web applications that are scalable, secure, and reliable, with expertise in deploying them through Azure. I find great satisfaction in tackling complex problems and continuously expanding my skill set. Writing code that is both high-quality and optimized for performance and maintainability is something I take great pride in. I am constantly seeking new challenges and opportunities that foster my growth as a developer.",
+			"As a software engineer, I have gained extensive exposure to a range of technologies including Python, JavaScript, Java, SQL, as well as frameworks such as React.js, Flask, Spring and RESTful API. My experience encompasses building web applications that are scalable, secure, and reliable, with expertise in deploying them through Azure. I find great satisfaction in tackling complex problems and continuously expanding my skill set. Writing code that is both high-quality and optimized for performance and maintainability is something I take great pride in. I am constantly seeking new challenges and opportunities that foster my growth as a developer.",
 	},
 
 	about: {
 		title: "I’m Kenneth Quek. I live in Singapore, where I design the future.",
 		description:
-			"I've worked in Shanghai, China as a Sales Manager for five years. In my previous role, I successfully collaborated with a developer and played a pivotal round in implementing a cloud ERP solution, which enhanced customer order management, drove inter-departmental data transparency, and improving operational efficiency. This experience has motivated me to move back to Singapore to transition into tech career. I have worked on a variety of projects and I'm proud of the progress I've made since starting my coding journey in Dec 2022. Many of these projects are open-source and available for others to explore and contribute to. If you know of any exciting web development opportunities or have any advice to share, please feel free to reach out. Let's connect and explore the endless possibilities together!",
+			"I've worked in Shanghai, China as a Sales Manager for five years. In my previous role, I successfully collaborated with a developer and played a pivotal round in implementing a cloud ERP solution, which enhanced customer order management, drove inter-departmental data transparency, and improving operational efficiency. This experience has motivated me to move back to Singapore to transition into tech. I have worked on a variety of projects and I'm proud of the progress I've made since starting my coding journey in Dec 2022. Many of these projects are open-source and available for others to explore and contribute to. If you know of any exciting web development opportunities or have any advice to share, please feel free to reach out. Let's connect and explore the endless possibilities together!",
 	},
 
 	// articles: {
@@ -34,6 +34,15 @@ const INFO = {
 	// },
 
 	projects: [
+		{
+			title: "React Served By Spring Boot",
+			description:
+				"my personal exploration into the process of using Spring Boot Web framework and Maven build process to serve React frontend, with a twist in configuring React with Vite",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
+			linkText: "View Project",
+			link: "https://github.com/Cocopuffff/react-served-by-spring-boot",
+		},
+
 		{
 			title: "Trader Joe",
 			description:
