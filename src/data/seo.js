@@ -13,12 +13,12 @@ const SEO = [
 		keywords: ["Kenneth", "Kenneth Quek", "Kenneth Quek Zhen Wei"],
 	},
 
-	// {
-	// 	page: "articles",
-	// 	description:
-	// 		"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-	// 	keywords: ["Kenneth", "Kenneth Quek", "Kenneth Quek Zhen Wei"],
-	// },
+	{
+		page: "articles",
+		description:
+			"Chronological collection of my long-form thoughts on product design, programming, leadership, and more.",
+		keywords: ["Kenneth", "Kenneth Quek", "Kenneth Quek Zhen Wei", "product", "product manager"],
+	},
 
 	{
 		page: "projects",

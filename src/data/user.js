@@ -27,17 +27,26 @@ const INFO = {
 			"I've worked in Shanghai, China as a Sales Manager for five years. In my previous role, I successfully collaborated with a developer and played a pivotal round in implementing a cloud ERP solution, which enhanced customer order management, drove inter-departmental data transparency, and improving operational efficiency. This experience has motivated me to move back to Singapore to transition into tech. I have worked on a variety of projects and I'm proud of the progress I've made since starting my coding journey in Dec 2022. Many of these projects are open-source and available for others to explore and contribute to. If you know of any exciting web development opportunities or have any advice to share, please feel free to reach out. Let's connect and explore the endless possibilities together!",
 	},
 
-	// articles: {
-	// 	title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-	// 	description:
-	// 		"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-	// },
+	articles: {
+		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		description:
+			"Chronological collection of my long-form thoughts on product design, programming, leadership, and more.",
+	},
 
 	projects: [
 		{
+			title: "Financial Management System (FiMS)",
+			description:
+				"Automated financial reporting using Pandas and Airflow to orchestrate data workflows, with Streamlit serving as the Frontend and logic layer to manage and display the status of computations.",
+			logo: "python.png",
+			linkText: "Project unavailable for viewing",
+			link: "#",
+		},
+		
+		{
 			title: "React Served By Spring Boot",
 			description:
-				"my personal exploration into the process of using Spring Boot Web framework and Maven build process to serve React frontend, with a twist in configuring React with Vite",
+				"My personal exploration into the process of using Spring Boot Web framework and Maven build process to serve React frontend, with a twist in configuring React with Vite.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
 			linkText: "View Project",
 			link: "https://github.com/Cocopuffff/react-served-by-spring-boot",
@@ -64,7 +73,7 @@ const INFO = {
 		{
 			title: "Fefi Finance",
 			description:
-				"Engineered a Trader’s Research Assistant application featuring chart analysis and generative AI news sentiment analysis, using React.js and integrated with APIs from Oanda, AirTable, and Groq",
+				"Engineered a Trader’s Research Assistant application featuring chart analysis and generative AI news sentiment analysis, using React.js and integrated with APIs from Oanda, AirTable, and Groq.",
 			logo: "react.png",
 			linkText: "View Project",
 			link: "https://github.com/Cocopuffff/fefi-finance",
@@ -73,7 +82,7 @@ const INFO = {
 		{
 			title: "Sudoku",
 			description:
-				"Developed a Sudoku website utilizing a recursive algorithm to dynamically generate unique puzzles, implemented in JavaScript",
+				"Developed a Sudoku website utilizing a recursive algorithm to dynamically generate unique puzzles, implemented in JavaScript.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png",
 			linkText: "View Deployment",
 			link: "https://cocopuffff.github.io/Sudoku/",
@@ -82,7 +91,7 @@ const INFO = {
 		{
 			title: "RAG Chat App",
 			description:
-				"Collaboratively developed a Retrieval Augmented AI chat interface, empowering users to extract insights from document repositories interactively using web socket, vector store, and Langchain",
+				"Collaboratively developed a Retrieval Augmented AI chat interface, empowering users to extract insights from document repositories interactively using web socket, vector store, and Langchain.",
 			logo: "python.png",
 			linkText: "Project unavailable for viewing",
 			link: "#",
@@ -163,7 +172,7 @@ const INFO = {
 		{
 			title: "Colmar Academy",
 			description:
-				"A mobile-first website that was built in an eight hours assessment using HTML and CSS only",
+				"A mobile-first website that was built in an eight hours assessment using HTML and CSS only.",
 			logo: "css.png",
 			linkText: "View Project",
 			link: "https://github.com/Cocopuffff/ColmarAcademy",

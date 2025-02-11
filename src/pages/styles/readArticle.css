@@ -59,10 +59,28 @@
 	width: 100% !important;
 }
 
+.read-article-report-link {
+	opacity: 0.8;
+	display: flex;
+	justify-content: flex-end;
+	text-decoration: none;
+	color: var(--link-color);
+	margin-bottom: 16px;
+}
+
+.read-article-report-link:hover {
+	opacity: 1;
+}
+
 .read-article-body {
 	padding-bottom: 50px;
 	font-size: 16px;
 	line-height: 30px;
 	font-family: system-ui;
 	color: #52525b;
+}
+
+.download-icon {
+	margin-left: 12px;
+	margin-right: 12px;
 }
