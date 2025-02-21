@@ -76,14 +76,12 @@
 
 .homepage-projects {
 	flex-basis: 300px;
-	padding-top: 40px;
 }
 
-/* .homepage-articles {
+.homepage-articles {
 	flex-basis: 900px;
-	padding-top: 30px;
 	margin-left: -30px;
-} */
+}
 
 .homepage-article {
 	padding-bottom: 5px;
@@ -91,7 +89,6 @@
 
 .homepage-works {
 	flex-basis: 600px;
-	padding-top: 30px;
 }
 
 @media (max-width: 1024px) {

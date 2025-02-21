@@ -5,7 +5,7 @@ function article_1() {
 		date: "11 Feb 2025",
 		title: "Product Strategy for Bank Payments and Collections",
 		description:
-			"For The Role: Product Manager (Payments and Collections) at Bank of China Limited Singapore Branch's",
+			"Bank of China Limited Singapore Branch",
 		keywords: [
 			"Payments",
 			"Collections",
