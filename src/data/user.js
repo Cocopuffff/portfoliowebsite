@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "Software Engineer, and loving dad to my son and cat.",
 		description:
-			"As a software engineer, I have gained extensive exposure to a range of technologies including Python, JavaScript, Java, SQL, as well as frameworks such as React.js, Flask, Spring and RESTful API. My experience encompasses building web applications that are scalable, secure, and reliable, with expertise in deploying them through Azure. I find great satisfaction in tackling complex problems and continuously expanding my skill set. Writing code that is both high-quality and optimized for performance and maintainability is something I take great pride in. I am constantly seeking new challenges and opportunities that foster my growth as a developer.",
+			"As a software engineer, I have gained extensive exposure to a range of technologies including Python, JavaScript, Java, SQL, as well as frameworks such as React.js, Flask, Spring and RESTful API. My experience encompasses building web applications that are scalable, secure, and reliable, with expertise in deploying them through Azure. I find great satisfaction in tackling complex problems and continuously expanding my skill set. Writing code that is both high-quality and optimized for performance and maintainability is something I take great pride in. I am constantly seeking new challenges and opportunities that foster my growth.",
 	},
 
 	about: {
