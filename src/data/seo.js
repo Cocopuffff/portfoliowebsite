@@ -2,14 +2,14 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"As an aspiring full-stack developer, I have gained extensive exposure to a range of technologies including JavaScript, Java, and SQL, as well as frameworks such as Scrum, RESTful API, Bootstrap, React.js, and Spring. My experience encompasses building web applications that are scalable, secure, and reliable, with expertise in deploying them through Azure.",
+			"As a full-stack engineer, I have gained extensive exposure to a range of technologies including C#, Python, Go, JavaScript, and SQL, as well as frameworks such as Blazor, Scrum, RESTful API, Bootstrap, React.js, and Spring. My experience encompasses building web applications that are scalable, secure, and reliable, with expertise in deploying and maintaining them.",
 		keywords: ["Kenneth", "Kenneth Quek", "Kenneth Quek Zhen Wei"],
 	},
 
 	{
 		page: "about",
 		description:
-			"As an aspiring full-stack developer, I have gained extensive exposure to a range of technologies including JavaScript, Java, and SQL, as well as frameworks such as Scrum, RESTful API, Bootstrap, React.js, and Spring. My experience encompasses building web applications that are scalable, secure, and reliable, with expertise in deploying them through Azure.",
+			"As a full-stack engineer, I have gained extensive exposure to a range of technologies including C#, Python, Go, JavaScript, and SQL, as well as frameworks such as Blazor, Scrum, RESTful API, Bootstrap, React.js, and Spring. My experience encompasses building web applications that are scalable, secure, and reliable, with expertise in deploying and maintaining them.",
 		keywords: ["Kenneth", "Kenneth Quek", "Kenneth Quek Zhen Wei"],
 	},
 
