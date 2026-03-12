@@ -21,7 +21,7 @@ const Works = () => {
 							/>
 							<div className="work-title">OCBC Bank</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Full Stack Engineer
 							</div>
 							<div className="work-duration">2024 - Present</div>
 						</div>

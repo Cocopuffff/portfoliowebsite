@@ -16,9 +16,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Software Engineer, and loving dad to my son and cat.",
+		title: "Full Stack Engineer, and loving dad to my son and cat.",
 		description:
-			"As a software engineer, I have built and deployed scalable, secure, and high-performance web applications across diverse stacks, working extensively with C#, Python, Go, JavaScript, and Java, alongside frameworks such as Blazor, React.js, Flask, and Spring. I am particularly interested in the fintech space, where technology and financial systems converge to redefine how value moves. My focus is on writing clean, maintainable code and designing systems that are both resilient and efficient. I'm driven by the pursuit of building products that power modern financial innovation and continuously challenge me to grow as both an engineer and a thinker.",
+			"As a Full Stack Engineer, I have built and deployed scalable, secure, and high-performance web applications across diverse stacks, working extensively with C#, Python, Go, JavaScript, and Java, alongside frameworks such as Blazor, React.js, Flask, and Spring. I am particularly interested in the fintech space, where technology and financial systems converge to redefine how value moves. My focus is on writing clean, maintainable code and designing systems that are both resilient and efficient. I'm driven by the pursuit of building products that power modern financial innovation and continuously challenge me to grow as both an engineer and a thinker.",
 	},
 
 	about: {
@@ -34,6 +34,15 @@ const INFO = {
 	},
 
 	projects: [
+		{
+			title: "AutoArbitrage",
+			description:
+				"An autonomous agentic ETL pipeline that monitors the Singapore automotive market for high-value assets. It leverages Playwright for headless browser scraping with deterministic website parsing and LLM fallback, a custom valuation engine, and Supabase for state management. The scraper is deployed on DigitalOcean and the Next.js frontend is hosted on Vercel.",
+			logo: "react.png",
+			linkText: "View Project",
+			link: "https://github.com/Cocopuffff/autoarbitrage",
+		},
+		
 		{
 			title: "REAL (Resource Allocation and Tracking System)",
 			description:

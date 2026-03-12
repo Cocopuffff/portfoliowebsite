@@ -3,9 +3,9 @@
 	"version": "1.2.0",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
+		"name": "Kenneth Quek Zhen Wei",
+		"email": "kennethqzw@gmail.com",
+		"url": "https://kennethquek.com"
 	},
 	"license": "MIT",
 	"private": true,
@@ -23,15 +23,13 @@
 		"react-ga4": "^2.1.0",
 		"react-helmet": "^6.1.0",
 		"react-router-dom": "^6.11.1",
-		"react-scripts": "^5.0.1",
 		"styled-components": "^5.3.10",
 		"web-vitals": "^2.1.4"
 	},
 	"scripts": {
-		"start": "react-scripts start",
-		"build": "react-scripts build",
-		"test": "react-scripts test",
-		"eject": "react-scripts eject"
+		"start": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
 	},
 	"eslintConfig": {
 		"extends": [
@@ -56,6 +54,8 @@
 		"tabWidth": 4
 	},
 	"devDependencies": {
-		"@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+		"@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+		"@vitejs/plugin-react": "^6.0.0",
+		"vite": "^8.0.0"
 	}
 }
