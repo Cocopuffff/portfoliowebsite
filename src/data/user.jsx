@@ -16,15 +16,15 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full Stack Engineer, and loving dad to my son and cat.",
+		title: "Full Stack Engineer & Product Builder, and loving dad to my son and cat.",
 		description:
-			"As a Full Stack Engineer, I have built and deployed scalable, secure, and high-performance web applications across diverse stacks, working extensively with C#, Python, Go, JavaScript, and Java, alongside frameworks such as Blazor, React.js, Flask, and Spring. I am particularly interested in the fintech space, where technology and financial systems converge to redefine how value moves. My focus is on writing clean, maintainable code and designing systems that are both resilient and efficient. I'm driven by the pursuit of building products that power modern financial innovation and continuously challenge me to grow as both an engineer and a thinker.",
+			"With a foundation in full-stack engineering and a background in enterprise sales, I specialize in bridging the gap between complex technical architectures and tangible business outcomes. I have built scalable applications across diverse stacks (C#, Python, JavaScript) while managing cross-functional collaborations to deliver solutions that solve real-world problems. Whether I'm architecting a data pipeline, shaping product strategy, or communicating value to stakeholders, my goal is to design systems that are both resilient and user-centric. I'm driven by the pursuit of building products that power modern innovation and continuously challenge me to grow as a technical leader and a strategic thinker.",
 	},
 
 	about: {
-		title: "I'm Kenneth Quek. I live in Singapore, where I design the future.",
+		title: "I'm Kenneth Quek. I live in Singapore, where I connect technology with business value.",
 		description:
-			"I've worked in Shanghai, China as a Sales Manager for five years. In my previous role, I successfully collaborated with a developer and played a pivotal round in implementing a cloud ERP solution, which enhanced customer order management, drove inter-departmental data transparency, and improving operational efficiency. This experience has motivated me to move back to Singapore to transition into tech. I have worked on a variety of projects and I'm proud of the progress I've made since starting my coding journey in Dec 2022. Many of these projects are open-source and available for others to explore and contribute to. If you know of any exciting web development opportunities or have any advice to share, please feel free to reach out. Let's connect and explore the endless possibilities together!",
+			"My career began in Shanghai, China, where I spent five years as a Sales Manager. During that time, I played a pivotal role in implementing a cloud ERP solution, translating complex business requirements into technical deliverables alongside engineering teams. This experience of driving operational efficiency and customer success through technology motivated me to transition fully into tech in Singapore. Since beginning my coding journey in Dec 2022, I have developed a wide array of full-stack and AI-driven projects, focusing on system architecture and product design. My unique blend of commercial acumen and technical capability allows me to approach problems holistically and communicate effectively across all levels of an organization. If you're looking for someone who can build maintainable code, strategize, and speak the language of both engineering and business, let's connect!",
 	},
 
 	articles: {
@@ -35,9 +35,18 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Value Brief",
+			description:
+				"An automated daily digest that accumulates value investing-related insights on your stocks using multi agent AI workflow in LangGraph",
+			logo: "python.png",
+			linkText: "View Project",
+			link: "https://github.com/Cocopuffff/valuebrief",
+		},
+		
+		{
 			title: "AutoArbitrage",
 			description:
-				"An autonomous agentic ETL pipeline that monitors the Singapore automotive market for high-value assets. It leverages Playwright for headless browser scraping with deterministic website parsing and LLM fallback, a custom valuation engine, and Supabase for state management. The scraper is deployed on DigitalOcean and the Next.js frontend is hosted on Vercel.",
+				"An automated data pipeline for real-time used car market analysis, leveraging a distributed architecture for cost-efficient intelligence capability",
 			logo: "react.png",
 			linkText: "View Project",
 			link: "https://github.com/Cocopuffff/autoarbitrage",
@@ -46,7 +55,7 @@ const INFO = {
 		{
 			title: "REAL (Resource Allocation and Tracking System)",
 			description:
-				"Time clocking and resource allocation system built with C# and Blazor, featuring role-based access control, real-time reporting capabilities, and integration with HR sytems.",
+				"Integrated resource allocation and time clocking system built with C# and Blazor, featuring role-based access control, real-time reporting capabilities, and integration with ServiceNow and HR systems.",
 			logo: "csharp.png",
 			linkText: "Project unavailable for viewing",
 			link: "#",
